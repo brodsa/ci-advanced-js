@@ -49,4 +49,4 @@ let favouriteFoods = {
     andrea: "steak"
 }
 let {brian, anna, ...rest} = favouriteFoods
-console.log(brian, anna, rest) \\ pizza pasta { sarah: 'vegetarian', andrea: 'steak' }
+console.log(brian, anna, rest)
